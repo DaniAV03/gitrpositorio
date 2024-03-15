@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Creo en rama principal
+=======
+Creo archivo en pruebas2
+>>>>>>> pruebas2
